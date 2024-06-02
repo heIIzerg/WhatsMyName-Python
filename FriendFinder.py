@@ -55,7 +55,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
         ╠╣ ├┬┘│├┤ │││ ││  ╠╣ ││││ ││├┤ ├┬┘
         ╚  ┴└─┴└─┘┘└┘─┴┘  ╚  ┴┘└┘─┴┘└─┘┴└─  Version 1.2
         \033[39m\033[1m
-        by Alin2goated & flippingbills
+        by C3n7ral051nt4g3ncy
        [+] Private Release \n
       \033[32m\033[1mUsage: python FriendFinder.py -h\033[0m\n\n"""
     )
